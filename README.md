@@ -28,7 +28,7 @@ You will also see any lint errors in the console.
 - Open terminal run `nodemon server.js`
 - Open other terminal run `mongod`
 
-Open API URL on [http://0.0.0.0:5000/students](http://0.0.0.0:5000/students) to view it in the browser.
+Open API URL on [http://0.0.0.0:3000/students](http://0.0.0.0:3000/students) to view it in the browser.
 
 
 ### `npm test`
