@@ -1,3 +1,3 @@
 module.exports = {
-  db: 'mongodb://0.0.0.0:27017/reactdb',
+  db: 'mongodb://ed-5579712711360512.educative.run:27017/reactdb',
 }
